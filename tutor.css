@@ -1,0 +1,54 @@
+.center {
+    margin: 100;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+section, header, footer {
+outline: 1px solid red;
+}
+
+header {
+text-align: center;
+}
+body {
+    background: lightblue url(file:///Users/amogusmasterleo/Downloads/profilbild-giuseppe-caputo.jpeg) no-repeat fixed center;
+  }
+
+.startpage h1 {
+font-size: 500%; /* Big title on the start page*/
+}
+
+.tagline {
+font-size: 120%;
+padding: 0.9em; /* distance to the border*/
+border-top: 3px double #4a412a;
+border-bottom: 3px double #4a412a;
+margin: 1em 10; /* distance downwards but not upwards*/
+}
+
+.menu h2 {
+margin: 0 2 100 em;
+padding: 2em 0;
+background-color: #4a412a;  /* very light gray*/
+text-align: center;
+}
+
+footer {
+margin-top: 3em;
+text-align: center;
+color: #4a412a;
+}
+html {
+    height: 1000%;
+}
+body {
+    min-height: 10%;
+}
+.center {
+    margin: auto;
+    width: 25%;
+    border: 3px solid green;
+    padding: 10px;
+  }
